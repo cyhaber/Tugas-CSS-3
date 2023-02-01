@@ -1,0 +1,15 @@
+.p_satu {
+    background-color: orange;
+    border-style: solid;
+}
+.p_dua {
+    background-color: blue;
+}
+.p_tiga {
+    font-family:'Times New Roman', Times, serif;
+    border-style: solid;;
+}
+.p_empat {
+  font-weight: bold;
+  background-color: rgb(134, 134, 134);
+}
